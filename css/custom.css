@@ -1,0 +1,65 @@
+
+span.tagline {
+    font-size: 1rem;
+    font-weight: normal;
+	color:#fff;
+	text-transform: capitalize !important;
+}
+
+.text-grey {
+	color: #868484;
+}
+
+.text-align-left {
+	text-align: left !important;
+}
+
+.span-break {
+	display:inline-block;
+}
+
+.btn-purple {
+	background-color: #9c27b4;
+}
+
+.bi-linktree {
+    font-size: 1.2rem;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.btn-adjust {
+	padding: 0.25rem 0.6rem;
+}
+
+.btn:hover {
+	font-weight: bold;
+}
+
+.masthead .masthead-subheading {
+    font-size: 1rem;
+	color: #a0ffec;
+	margin-bottom: 1em!important;
+}
+
+.divider-custom.divider-light {
+    margin-top: 0.8em;
+    margin-right: 0px;
+    margin-bottom: 1.25em;
+    margin-left: 0px;
+}
+
+.for-hire {
+	font-weight: bold;
+	color: orange;
+
+}
+
+.love {
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+.footer-icon {
+	color: #ffc107;
+}
